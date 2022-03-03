@@ -1,0 +1,17 @@
+#header{
+    background-color:rgb(6, 18, 187);
+    color: #FFFFFF;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;    
+
+}
+
+#btn{
+    background-color: green;
+    color: #FFFFFF;
+}
